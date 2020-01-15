@@ -1,6 +1,6 @@
 ### Ejercicio clase 62 
 
-- Este es un array de imagenes que contiene las mismas que se usaron para la seccion "Our clients" del TP1. 
+- En el archivo main.js hay un array de imagenes que contiene las mismas que se usaron para la seccion "Our clients" del TP1. 
 
 https://newbiz-master-uqgespkghu.now.sh/
 
